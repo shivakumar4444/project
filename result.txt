@@ -1,0 +1,5 @@
+    studentname           attendedperiods         percentage
+
+     shiva                6                       6%
+     malli                0                       0%
+     lilli                0                       0%
